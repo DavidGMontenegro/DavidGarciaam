@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David García Montenegro</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidgarciaam&label=Profile%20views&color=0e75b6&style=flat" alt="davidgarciaam" /> </p>
-
 - 🌱 I’m currently studying Informatics Engineering **at Universidad de Salamanca**
 
 - 📫 How to reach me **davidgm0928@gmail.com**
